@@ -1,8 +1,8 @@
 # Title
 
 -Bot Battlr
- To access this application click this link <a href= "https://63ce860fc6bdf719ad261f1d--mellow-melba-77f364.netlify.app/"
- >Bot Battlr</a>
+ To access this application click this link <a href= "https://63ce860fc6bdf719ad261f1d--mellow-melba-77f364.netlify.app/">Bot-Battlr</a>
+ 
 
 # Description
 This is  a project  for building out a React application  customised to display bot army.
